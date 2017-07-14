@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\bin\Debug\Sudoku_J1.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\Sudoku_J1.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\MainWindow.g.cs
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\App.g.cs
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\Sudoku_J1_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\Sudoku_J1_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\bin\Debug\Sudoku_J1.exe
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\bin\Debug\Sudoku_J1.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\MainWindow.baml
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\Sudoku_J1.g.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\Sudoku_J1.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\Sudoku_J1.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\Sudoku_J1.exe
+C:\Users\User\documents\visual studio 2015\Projects\Sudoku_J1\Sudoku_J1\obj\Debug\Sudoku_J1.pdb
